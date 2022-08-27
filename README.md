@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://t.me/NandeeRobot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/salimbanget_2"> Support Channel </a> •
-    <a href="https://t.me/suportsipuserbot"> Support Chat </a> 
+  <img src="https://telegra.ph/file/8057d5822ca10545a510d.jpg">
+</p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2c25e8374aade4a506ee9.jpg">
-</p>
+    <a href="https://t.me/NandeeRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/salimbanget_2"> Support Channel </a> •
+    <a href="https://t.me/suportsipuserbot"> Support Chat </a>
     
 # Nandee Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
