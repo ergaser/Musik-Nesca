@@ -2,6 +2,9 @@
     <a href="https://t.me/NandeeRobot"> Ready-To-Use Bot </a> •
     <a href="https://t.me/salimbanget_2"> Support Channel </a> •
     <a href="https://t.me/suportsipuserbot"> Support Chat </a> 
+
+<p align="center">
+  <img src="https://telegra.ph/file/2c25e8374aade4a506ee9.jpg">
 </p>
     
 # Nandee Music Bot
