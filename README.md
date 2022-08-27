@@ -1,8 +1,3 @@
-<p align="center"><img src="https://telegra.ph/file/8057d5822ca10545a510d.jpg
-
-<h4 align="center">
-    A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
-</h4>
 <p align="center">
     <a href="https://t.me/NandeeRobot"> Ready-To-Use Bot </a> •
     <a href="https://t.me/salimbanget_2"> Support Channel </a> •
