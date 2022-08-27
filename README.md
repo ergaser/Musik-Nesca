@@ -1,15 +1,15 @@
-<p align="center"><img src="https://github.com/AyiinXd/AyiinMusic/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/sip-Userbot/Musik-Nandeebot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YinzRobot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/AyiinSupport"> Support Channel </a> •
-    <a href="https://t.me/AyiinXdSupport"> Support Chat </a> 
+    <a href="https://t.me/NandeeRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/salimbanget_2"> Support Channel </a> •
+    <a href="https://t.me/suportsipuserbot"> Support Chat </a> 
 </p>
     
-# Ayiin Music Bot
+# Nandee Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 
@@ -80,9 +80,9 @@ ayiin@ayiin~ $ python3 -m Ayiin
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/AyiinSupport)
-- [Telegram Support Group](https://t.me/AyiinXdSupport)
-- [Contact Owner](https://t.me/AyiinXd)
+- [Telegram Channel](https://t.me/alimbanget_2)
+- [Telegram Support Group](https://t.me/suportsipuserbot)
+- [Contact Owner](https://t.me/Klyuserbot)
 
 
 ## License
@@ -99,3 +99,4 @@ Special thanks to these amazing projects/people which/who help power Ayiin Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 - [AyiinXd](https://github.com/AyiinXd)
+- [sip-Userbot](https://github.com/sip-Userbot)
