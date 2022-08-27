@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/sip-Userbot/Musik-Nandeebot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://telegra.ph/file/8057d5822ca10545a510d.jpg
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
